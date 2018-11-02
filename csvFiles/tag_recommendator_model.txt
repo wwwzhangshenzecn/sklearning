@@ -1,0 +1,1521 @@
+Premise,conclusion
+<iphone>,<ios>
+<ios>,<iphone>
+<objective-c>,<ios>
+<ios>,<objective-c>
+<app>,<ios>
+<ios>,<app>
+<objective-c>,<iphone>
+<iphone>,<objective-c>
+<app>,<objective-c>
+<objective-c>,<app>
+<管理系统>,<javascript>
+<javascript>,<管理系统>
+<数据库>,<mysql>
+<mysql>,<数据库>
+<管理系统>,<数据库>
+<数据库>,<管理系统>
+<数据库>,<php>
+<php>,<数据库>
+<管理系统>,<mysql>
+<mysql>,<管理系统>
+<php>,<mysql>
+<mysql>,<php>
+<管理系统>,<php>
+<php>,<管理系统>
+<php>,<thinkphp>
+<thinkphp>,<php>
+<php>,<apache>
+<apache>,<php>
+<rest>,<php>
+<php>,<rest>
+<php框架>,<php>
+<php>,<php框架>
+<jfinal>,<java>
+<java>,<jfinal>
+<javascript>,<java>
+<java>,<javascript>
+<php>,<facebook>
+<facebook>,<php>
+<java>,<ruby>
+<ruby>,<java>
+<python>,<java>
+<java>,<python>
+<php>,<java>
+<java>,<php>
+<python>,<ruby>
+<ruby>,<python>
+<python>,<php>
+<php>,<python>
+<python>,<django>
+<django>,<python>
+<php>,<c>
+<c>,<php>
+<linux>,<c>
+<c>,<linux>
+<linux>,<php>
+<php>,<linux>
+<管理系统>,<java>
+<java>,<管理系统>
+<html>,<java>
+<java>,<html>
+<node.js>,<mongodb>
+<mongodb>,<node.js>
+<json>,<java>
+<java>,<json>
+<javascript>,<json>
+<json>,<javascript>
+<javascript>,<mongodb>
+<mongodb>,<javascript>
+<mongodb>,<java>
+<java>,<mongodb>
+<maven>,<java>
+<java>,<maven>
+<python>,<html>
+<html>,<python>
+<html>,<css>
+<css>,<html>
+<android>,<app>
+<app>,<android>
+<数据库>,<sql>
+<sql>,<数据库>
+<sql>,<php>
+<php>,<sql>
+<c#>,<数据库>
+<数据库>,<c#>
+<jquery>,<javascript>
+<javascript>,<jquery>
+<hadoop>,<hive>
+<hive>,<hadoop>
+<java>,<c>
+<c>,<java>
+<html>,<php>
+<php>,<html>
+<php>,<yii>
+<yii>,<php>
+<c#>,<java>
+<java>,<c#>
+<python>,<c#>
+<c#>,<python>
+<hibernate>,<java>
+<java>,<hibernate>
+<shiro>,<java>
+<java>,<shiro>
+<mybatis>,<java>
+<java>,<mybatis>
+<java>,<jeesite>
+<jeesite>,<java>
+<java>,<apache>
+<apache>,<java>
+<bootstrap>,<java>
+<java>,<bootstrap>
+<java>,<spring>
+<spring>,<java>
+<mybatis>,<shiro>
+<shiro>,<mybatis>
+<mybatis>,<bootstrap>
+<bootstrap>,<mybatis>
+<mybatis>,<spring>
+<spring>,<mybatis>
+<shiro>,<apache>
+<apache>,<shiro>
+<shiro>,<spring>
+<spring>,<shiro>
+<apache>,<spring>
+<spring>,<apache>
+<bootstrap>,<spring>
+<spring>,<bootstrap>
+<app>,<javascript>
+<javascript>,<app>
+<c#>,<html>
+<html>,<c#>
+<数据库>,<java>
+<java>,<数据库>
+<linux>,<android>
+<android>,<linux>
+<mysql>,<java>
+<java>,<mysql>
+<mysql>,<mybatis>
+<mybatis>,<mysql>
+<mysql>,<spring>
+<spring>,<mysql>
+<android>,<java>
+<java>,<android>
+<ehcache>,<java>
+<java>,<ehcache>
+<javascript>,<html>
+<html>,<javascript>
+<java>,<algorithm>
+<algorithm>,<java>
+<php>,<codeigniter>
+<codeigniter>,<php>
+<hibernate>,<spring>
+<spring>,<hibernate>
+<java>,<ios>
+<ios>,<java>
+<android>,<ios>
+<ios>,<android>
+<xml>,<json>
+<json>,<xml>
+<elasticsearch>,<java>
+<java>,<elasticsearch>
+<solr>,<java>
+<java>,<solr>
+<lucene>,<java>
+<java>,<lucene>
+<qt>,<c++>
+<c++>,<qt>
+<数据库>,<spring>
+<spring>,<数据库>
+<javascript>,<spring>
+<spring>,<javascript>
+<管理系统>,<spring>
+<spring>,<管理系统>
+<beetl>,<java>
+<java>,<beetl>
+<node.js>,<javascript>
+<javascript>,<node.js>
+<angularjs>,<node.js>
+<node.js>,<angularjs>
+<angularjs>,<javascript>
+<javascript>,<angularjs>
+<jquery>,<php>
+<php>,<jquery>
+<python>,<javascript>
+<javascript>,<python>
+<javascript>,<css>
+<css>,<javascript>
+<python>,<css>
+<css>,<python>
+<linux>,<python>
+<python>,<linux>
+<redis>,<spring>
+<spring>,<redis>
+<redis>,<java>
+<java>,<redis>
+<redis>,<mybatis>
+<mybatis>,<redis>
+<eclipse>,<java>
+<java>,<eclipse>
+<dubbo>,<java>
+<java>,<dubbo>
+<java>,<zookeeper>
+<zookeeper>,<java>
+<tomcat>,<java>
+<java>,<tomcat>
+<wpf>,<c#>
+<c#>,<wpf>
+<javascript>,<浏览器>
+<浏览器>,<javascript>
+<javascript>,<html5>
+<html5>,<javascript>
+<mysql>,<database>
+<database>,<mysql>
+<javascript>,<chrome>
+<chrome>,<javascript>
+<xml>,<java>
+<java>,<xml>
+<sql>,<java>
+<java>,<sql>
+<java>,<websocket>
+<websocket>,<java>
+<xml>,<php>
+<php>,<xml>
+<freemarker>,<java>
+<java>,<freemarker>
+<jquery>,<c#>
+<c#>,<jquery>
+<管理系统>,<c#>
+<c#>,<管理系统>
+<java>,<swing>
+<swing>,<java>
+<algorithm>,<c++>
+<c++>,<algorithm>
+<netty>,<java>
+<java>,<netty>
+<mysql>,<redis>
+<redis>,<mysql>
+<linux>,<java>
+<java>,<linux>
+<opengl>,<c++>
+<c++>,<opengl>
+<linux>,<c++>
+<c++>,<linux>
+<php>,<wordpress>
+<wordpress>,<php>
+<css>,<wordpress>
+<wordpress>,<css>
+<php>,<css>
+<css>,<php>
+<eclipse>,<maven>
+<maven>,<eclipse>
+<javascript>,<c#>
+<c#>,<javascript>
+<c#>,<css>
+<css>,<c#>
+<jquery>,<css>
+<css>,<jquery>
+<app>,<java>
+<java>,<app>
+<activiti>,<java>
+<java>,<activiti>
+<oracle>,<java>
+<java>,<oracle>
+<oracle>,<数据库>
+<数据库>,<oracle>
+<android>,<php>
+<php>,<android>
+<php>,<ios>
+<ios>,<php>
+<android>,<objective-c>
+<objective-c>,<android>
+<jquery>,<python>
+<python>,<jquery>
+<java>,<c++>
+<c++>,<java>
+<c#>,<c++>
+<c++>,<c#>
+<maven>,<spring>
+<spring>,<maven>
+<laravel>,<php>
+<php>,<laravel>
+<管理系统>,<mybatis>
+<mybatis>,<管理系统>
+<管理系统>,<shiro>
+<shiro>,<管理系统>
+<python>,<ubuntu>
+<ubuntu>,<python>
+<ios>,<c++>
+<c++>,<ios>
+<android>,<c++>
+<c++>,<android>
+<ios>,<cocoapods>
+<cocoapods>,<ios>
+<python>,<mysql>
+<mysql>,<python>
+<postgresql>,<java>
+<java>,<postgresql>
+<c#>,<unity3d>
+<unity3d>,<c#>
+<shell>,<bash>
+<bash>,<shell>
+<linux>,<bash>
+<bash>,<linux>
+<linux>,<shell>
+<shell>,<linux>
+<android>,<eclipse>
+<eclipse>,<android>
+<hadoop>,<java>
+<java>,<hadoop>
+<angularjs>,<java>
+<java>,<angularjs>
+<maven>,<mybatis>
+<mybatis>,<maven>
+<python>,<c++>
+<c++>,<python>
+<javascript>,<c++>
+<c++>,<javascript>
+<javascript>,<游戏>
+<游戏>,<javascript>
+<nodejs>,<javascript>
+<javascript>,<nodejs>
+<activerecord>,<ruby>
+<ruby>,<activerecord>
+<rest>,<java>
+<java>,<rest>
+<sql>,<mysql>
+<mysql>,<sql>
+<c#>,<mysql>
+<mysql>,<c#>
+<oracle>,<mysql>
+<mysql>,<oracle>
+<c#>,<sql>
+<sql>,<c#>
+<sql>,<postgresql>
+<postgresql>,<sql>
+<ajax>,<php>
+<php>,<ajax>
+<javascript>,<ajax>
+<ajax>,<javascript>
+<objective-c>,<xcode>
+<xcode>,<objective-c>
+<javascript>,<mysql>
+<mysql>,<javascript>
+<java>,<database>
+<database>,<java>
+<python>,<flask>
+<flask>,<python>
+<android>,<gradle>
+<gradle>,<android>
+<android>,<image>
+<image>,<android>
+<npm>,<javascript>
+<javascript>,<npm>
+<css>,<java>
+<java>,<css>
+<jquery>,<json>
+<json>,<jquery>
+<gradle>,<java>
+<java>,<gradle>
+<android>,<javascript>
+<javascript>,<android>
+<firefox>,<javascript>
+<javascript>,<firefox>
+<linux>,<mysql>
+<mysql>,<linux>
+<javascript>,<css3>
+<css3>,<javascript>
+<python>,<json>
+<json>,<python>
+<php>,<nginx>
+<nginx>,<php>
+<php>,<c++>
+<c++>,<php>
+<cordova>,<ios>
+<ios>,<cordova>
+<android>,<cordova>
+<cordova>,<android>
+<jquery>,<mysql>
+<mysql>,<jquery>
+<docker>,<java>
+<java>,<docker>
+<dubbo>,<spring>
+<spring>,<dubbo>
+<cmake>,<c++>
+<c++>,<cmake>
+<activemq>,<java>
+<java>,<activemq>
+<git>,<javascript>
+<javascript>,<git>
+<linux>,<ubuntu>
+<ubuntu>,<linux>
+<python>,<scrapy>
+<scrapy>,<python>
+<jquery>,<java>
+<java>,<jquery>
+<javascript>,<image>
+<image>,<javascript>
+<javascript>,<requirejs>
+<requirejs>,<javascript>
+<数据库>,<mybatis>
+<mybatis>,<数据库>
+<jquery>,<html>
+<html>,<jquery>
+<xml>,<javascript>
+<javascript>,<xml>
+<android>,<python>
+<python>,<android>
+<swift>,<iphone>
+<iphone>,<swift>
+<html>,<c++>
+<c++>,<html>
+<jquery>,<angularjs>
+<angularjs>,<jquery>
+<javascript>,<webpack>
+<webpack>,<javascript>
+<jquery>,<ajax>
+<ajax>,<jquery>
+<git>,<python>
+<python>,<git>
+<c++>,<c>
+<c>,<c++>
+<html>,<html5>
+<html5>,<html>
+<scala>,<java>
+<java>,<scala>
+<sql>,<database>
+<database>,<sql>
+<javascript>,<sql>
+<sql>,<javascript>
+<数据库>,<redis>
+<redis>,<数据库>
+<python>,<mongodb>
+<mongodb>,<python>
+<python>,<pip>
+<pip>,<python>
+<javascript>,<php>
+<php>,<javascript>
+<gcc>,<c++>
+<c++>,<gcc>
+<javascript>,<ios>
+<ios>,<javascript>
+<javascript>,<cordova>
+<cordova>,<javascript>
+<jquery>,<ios>
+<ios>,<jquery>
+<jquery>,<android>
+<android>,<jquery>
+<python>,<opencv>
+<opencv>,<python>
+<swift>,<ios>
+<ios>,<swift>
+<swift>,<objective-c>
+<objective-c>,<swift>
+<java>,<opencv>
+<opencv>,<java>
+<opencv>,<c++>
+<c++>,<opencv>
+<android>,<html>
+<html>,<android>
+<java>,<selenium>
+<selenium>,<java>
+<css>,<css3>
+<css3>,<css>
+<jquery>,<html5>
+<html5>,<jquery>
+<c#>,<ios>
+<ios>,<c#>
+<angularjs>,<html>
+<html>,<angularjs>
+<大数据>,<java>
+<java>,<大数据>
+<redis>,<shiro>
+<shiro>,<redis>
+<git>,<java>
+<java>,<git>
+<php>,<json>
+<json>,<php>
+<android>,<swift>
+<swift>,<android>
+<ios>,<xcode>
+<xcode>,<ios>
+<python>,<c>
+<c>,<python>
+<node.js>,<java>
+<java>,<node.js>
+<python>,<node.js>
+<node.js>,<python>
+<swift>,<java>
+<java>,<swift>
+<angularjs>,<php>
+<php>,<angularjs>
+<angularjs>,<css>
+<css>,<angularjs>
+<javascript>,<facebook>
+<facebook>,<javascript>
+<javascript>,<react>
+<react>,<javascript>
+<python>,<numpy>
+<numpy>,<python>
+<java>,<mybatis-plus>
+<mybatis-plus>,<java>
+<jenkins>,<java>
+<java>,<jenkins>
+<curl>,<php>
+<php>,<curl>
+<javascript>,<wordpress>
+<wordpress>,<javascript>
+<swagger>,<java>
+<java>,<swagger>
+<dubbo>,<redis>
+<redis>,<dubbo>
+<npm>,<node.js>
+<node.js>,<npm>
+<python>,<qt>
+<qt>,<python>
+<javascript>,<swift>
+<swift>,<javascript>
+<android>,<c#>
+<c#>,<android>
+<html>,<mysql>
+<mysql>,<html>
+<python>,<sql>
+<sql>,<python>
+<python>,<algorithm>
+<algorithm>,<python>
+<javascript>,<vue.js>
+<vue.js>,<javascript>
+<javascript>,<bash>
+<bash>,<javascript>
+<mongodb>,<mongoose>
+<mongoose>,<mongodb>
+<android>,<facebook>
+<facebook>,<android>
+<android>,<opencv>
+<opencv>,<android>
+<objective-c>,<java>
+<java>,<objective-c>
+<python>,<swift>
+<swift>,<python>
+<validation>,<javascript>
+<javascript>,<validation>
+<python>,<bash>
+<bash>,<python>
+<python>,<ios>
+<ios>,<python>
+<html>,<css3>
+<css3>,<html>
+<微信>,<微信小程序>
+<微信小程序>,<微信>
+<linux>,<c#>
+<c#>,<linux>
+<html>,<ios>
+<ios>,<html>
+<javascript>,<微信小程序>
+<微信小程序>,<javascript>
+<node.js>,<php>
+<php>,<node.js>
+<javascript>,<c>
+<c>,<javascript>
+<javascript>,<reactjs>
+<reactjs>,<javascript>
+<javascript>,<three.js>
+<three.js>,<javascript>
+<php>,<image>
+<image>,<php>
+<android>,<mysql>
+<mysql>,<android>
+<javascript>,<typescript>
+<typescript>,<javascript>
+<java>,<junit>
+<junit>,<java>
+<android>,<css>
+<css>,<android>
+<c#>,<php>
+<php>,<c#>
+<r>,<javascript>
+<javascript>,<r>
+<r>,<c++>
+<c++>,<r>
+<php>,<magento>
+<magento>,<php>
+<javascript>,<django>
+<django>,<javascript>
+<html>,<wordpress>
+<wordpress>,<html>
+<python>,<r>
+<r>,<python>
+<regex>,<php>
+<php>,<regex>
+<matlab>,<java>
+<java>,<matlab>
+<javascript>,<regex>
+<regex>,<javascript>
+<python>,<regex>
+<regex>,<python>
+<javascript>,<ember.js>
+<ember.js>,<javascript>
+<r>,<php>
+<php>,<r>
+<jquery>,<wordpress>
+<wordpress>,<jquery>
+<swift>,<xcode>
+<xcode>,<swift>
+<php>,<database>
+<database>,<php>
+<r>,<java>
+<java>,<r>
+<r>,<c#>
+<c#>,<r>
+<javascript>,<ruby>
+<ruby>,<javascript>
+<matlab>,<c++>
+<c++>,<matlab>
+<python>,<matlab>
+<matlab>,<python>
+<css>,<ios>
+<ios>,<css>
+<regex>,<java>
+<java>,<regex>
+<r>,<matlab>
+<matlab>,<r>
+<android>,<r>
+<r>,<android>
+<node.js>,<mongoose>
+<mongoose>,<node.js>
+<node.js>,<socket.io>
+<socket.io>,<node.js>
+<javascript>,<algorithm>
+<algorithm>,<javascript>
+<iphone> <objective-c>,<ios>
+<ios> <objective-c>,<iphone>
+<ios> <iphone>,<objective-c>
+<objective-c> <app>,<ios>
+<ios> <app>,<objective-c>
+<ios> <objective-c>,<app>
+<数据库> <管理系统>,<mysql>
+<mysql> <管理系统>,<数据库>
+<mysql> <数据库>,<管理系统>
+<php> <python>,<java>
+<java> <python>,<php>
+<java> <php>,<python>
+<php> <html>,<java>
+<java> <html>,<php>
+<java> <php>,<html>
+<c#> <python>,<java>
+<java> <python>,<c#>
+<java> <c#>,<python>
+<shiro> <mybatis>,<java>
+<java> <shiro>,<mybatis>
+<java> <mybatis>,<shiro>
+<java> <shiro>,<apache>
+<apache> <shiro>,<java>
+<apache> <java>,<shiro>
+<java> <shiro>,<spring>
+<spring> <shiro>,<java>
+<spring> <java>,<shiro>
+<java> <mybatis>,<bootstrap>
+<bootstrap> <mybatis>,<java>
+<java> <bootstrap>,<mybatis>
+<java> <mybatis>,<spring>
+<spring> <mybatis>,<java>
+<spring> <java>,<mybatis>
+<spring> <java>,<apache>
+<spring> <apache>,<java>
+<apache> <java>,<spring>
+<java> <bootstrap>,<spring>
+<spring> <bootstrap>,<java>
+<spring> <java>,<bootstrap>
+<shiro> <mybatis>,<spring>
+<spring> <mybatis>,<shiro>
+<spring> <shiro>,<mybatis>
+<spring> <mybatis>,<bootstrap>
+<spring> <bootstrap>,<mybatis>
+<bootstrap> <mybatis>,<spring>
+<spring> <shiro>,<apache>
+<spring> <apache>,<shiro>
+<apache> <shiro>,<spring>
+<mybatis> <mysql>,<java>
+<java> <mysql>,<mybatis>
+<java> <mybatis>,<mysql>
+<java> <mysql>,<spring>
+<spring> <mysql>,<java>
+<spring> <java>,<mysql>
+<java> <hibernate>,<spring>
+<spring> <hibernate>,<java>
+<spring> <java>,<hibernate>
+<java> <android>,<ios>
+<ios> <android>,<java>
+<ios> <java>,<android>
+<mysql> <数据库>,<java>
+<java> <数据库>,<mysql>
+<java> <mysql>,<数据库>
+<node.js> <angularjs>,<javascript>
+<javascript> <angularjs>,<node.js>
+<node.js> <javascript>,<angularjs>
+<html> <python>,<css>
+<css> <python>,<html>
+<css> <html>,<python>
+<javascript> <python>,<html>
+<html> <python>,<javascript>
+<html> <javascript>,<python>
+<html> <javascript>,<css>
+<css> <javascript>,<html>
+<css> <html>,<javascript>
+<javascript> <python>,<css>
+<css> <python>,<javascript>
+<css> <javascript>,<python>
+<mybatis> <redis>,<java>
+<java> <redis>,<mybatis>
+<java> <mybatis>,<redis>
+<java> <redis>,<spring>
+<spring> <redis>,<java>
+<spring> <java>,<redis>
+<mybatis> <redis>,<spring>
+<spring> <redis>,<mybatis>
+<spring> <mybatis>,<redis>
+<数据库> <sql>,<java>
+<java> <数据库>,<sql>
+<java> <sql>,<数据库>
+<java> <mysql>,<redis>
+<mysql> <redis>,<java>
+<java> <redis>,<mysql>
+<css> <php>,<wordpress>
+<wordpress> <css>,<php>
+<wordpress> <php>,<css>
+<maven> <eclipse>,<java>
+<java> <eclipse>,<maven>
+<java> <maven>,<eclipse>
+<javascript> <jquery>,<css>
+<css> <jquery>,<javascript>
+<css> <javascript>,<jquery>
+<javascript> <jquery>,<c#>
+<c#> <jquery>,<javascript>
+<c#> <javascript>,<jquery>
+<数据库> <oracle>,<java>
+<java> <数据库>,<oracle>
+<java> <oracle>,<数据库>
+<objective-c> <android>,<ios>
+<ios> <android>,<objective-c>
+<ios> <objective-c>,<android>
+<php> <android>,<ios>
+<ios> <android>,<php>
+<ios> <php>,<android>
+<java> <c#>,<c++>
+<c++> <c#>,<java>
+<c++> <java>,<c#>
+<java> <maven>,<spring>
+<spring> <maven>,<java>
+<spring> <java>,<maven>
+<java> <管理系统>,<spring>
+<spring> <管理系统>,<java>
+<spring> <java>,<管理系统>
+<mybatis> <管理系统>,<java>
+<java> <管理系统>,<mybatis>
+<java> <mybatis>,<管理系统>
+<mybatis> <管理系统>,<spring>
+<spring> <管理系统>,<mybatis>
+<spring> <mybatis>,<管理系统>
+<数据库> <管理系统>,<java>
+<java> <管理系统>,<数据库>
+<java> <数据库>,<管理系统>
+<shiro> <管理系统>,<java>
+<java> <管理系统>,<shiro>
+<java> <shiro>,<管理系统>
+<ios> <android>,<c++>
+<c++> <android>,<ios>
+<c++> <ios>,<android>
+<app> <android>,<java>
+<java> <android>,<app>
+<java> <app>,<android>
+<java> <数据库>,<spring>
+<spring> <数据库>,<java>
+<spring> <java>,<数据库>
+<shell> <linux>,<bash>
+<bash> <linux>,<shell>
+<bash> <shell>,<linux>
+<mybatis> <maven>,<spring>
+<spring> <maven>,<mybatis>
+<spring> <mybatis>,<maven>
+<mysql> <数据库>,<oracle>
+<数据库> <oracle>,<mysql>
+<mysql> <oracle>,<数据库>
+<css> <javascript>,<java>
+<java> <javascript>,<css>
+<java> <css>,<javascript>
+<html> <javascript>,<java>
+<java> <javascript>,<html>
+<java> <html>,<javascript>
+<css> <html>,<java>
+<java> <html>,<css>
+<java> <css>,<html>
+<javascript> <jquery>,<json>
+<json> <jquery>,<javascript>
+<json> <javascript>,<jquery>
+<mysql> <oracle>,<java>
+<java> <oracle>,<mysql>
+<java> <mysql>,<oracle>
+<mybatis> <maven>,<java>
+<java> <maven>,<mybatis>
+<java> <mybatis>,<maven>
+<mysql> <sql>,<java>
+<java> <sql>,<mysql>
+<java> <mysql>,<sql>
+<cordova> <android>,<ios>
+<ios> <android>,<cordova>
+<ios> <cordova>,<android>
+<mybatis> <数据库>,<java>
+<java> <数据库>,<mybatis>
+<java> <mybatis>,<数据库>
+<javascript> <jquery>,<html>
+<html> <jquery>,<javascript>
+<html> <javascript>,<jquery>
+<java> <python>,<c++>
+<c++> <python>,<java>
+<c++> <java>,<python>
+<c#> <python>,<c++>
+<c++> <python>,<c#>
+<c++> <c#>,<python>
+<javascript> <jquery>,<angularjs>
+<jquery> <angularjs>,<javascript>
+<javascript> <angularjs>,<jquery>
+<javascript> <jquery>,<ajax>
+<ajax> <jquery>,<javascript>
+<ajax> <javascript>,<jquery>
+<html> <javascript>,<html5>
+<html5> <javascript>,<html>
+<html5> <html>,<javascript>
+<java> <dubbo>,<spring>
+<spring> <dubbo>,<java>
+<spring> <java>,<dubbo>
+<app> <android>,<ios>
+<ios> <android>,<app>
+<ios> <app>,<android>
+<javascript> <jquery>,<ios>
+<ios> <jquery>,<javascript>
+<ios> <javascript>,<jquery>
+<javascript> <jquery>,<android>
+<jquery> <android>,<javascript>
+<javascript> <android>,<jquery>
+<javascript> <android>,<ios>
+<ios> <android>,<javascript>
+<ios> <javascript>,<android>
+<android> <jquery>,<ios>
+<ios> <android>,<jquery>
+<ios> <jquery>,<android>
+<javascript> <android>,<cordova>
+<cordova> <android>,<javascript>
+<cordova> <javascript>,<android>
+<objective-c> <swift>,<ios>
+<ios> <swift>,<objective-c>
+<ios> <objective-c>,<swift>
+<c++> <linux>,<c>
+<c> <linux>,<c++>
+<c> <c++>,<linux>
+<mongodb> <node.js>,<javascript>
+<node.js> <javascript>,<mongodb>
+<mongodb> <javascript>,<node.js>
+<shiro> <redis>,<java>
+<java> <redis>,<shiro>
+<java> <shiro>,<redis>
+<shiro> <redis>,<spring>
+<spring> <redis>,<shiro>
+<spring> <shiro>,<redis>
+<ios> <objective-c>,<xcode>
+<xcode> <objective-c>,<ios>
+<xcode> <ios>,<objective-c>
+<java> <python>,<c>
+<c> <python>,<java>
+<c> <java>,<python>
+<c++> <java>,<c>
+<c> <c++>,<java>
+<c> <java>,<c++>
+<c> <python>,<c++>
+<c++> <python>,<c>
+<c++> <c>,<python>
+<java> <swift>,<ios>
+<ios> <java>,<swift>
+<ios> <swift>,<java>
+<mysql> <php>,<sql>
+<php> <sql>,<mysql>
+<mysql> <sql>,<php>
+<html> <jquery>,<css>
+<css> <jquery>,<html>
+<css> <html>,<jquery>
+<html> <c#>,<css>
+<css> <c#>,<html>
+<css> <html>,<c#>
+<c#> <javascript>,<html>
+<html> <c#>,<javascript>
+<html> <javascript>,<c#>
+<html> <jquery>,<java>
+<java> <jquery>,<html>
+<java> <html>,<jquery>
+<java> <javascript>,<spring>
+<spring> <javascript>,<java>
+<spring> <java>,<javascript>
+<redis> <dubbo>,<java>
+<java> <dubbo>,<redis>
+<java> <redis>,<dubbo>
+<node.js> <npm>,<javascript>
+<node.js> <javascript>,<npm>
+<npm> <javascript>,<node.js>
+<java> <javascript>,<ios>
+<ios> <javascript>,<java>
+<ios> <java>,<javascript>
+<javascript> <android>,<java>
+<java> <android>,<javascript>
+<java> <javascript>,<android>
+<java> <android>,<c++>
+<c++> <android>,<java>
+<c++> <java>,<android>
+<c#> <android>,<ios>
+<ios> <android>,<c#>
+<ios> <c#>,<android>
+<html> <javascript>,<php>
+<php> <javascript>,<html>
+<php> <html>,<javascript>
+<javascript> <jquery>,<html5>
+<html5> <jquery>,<javascript>
+<html5> <javascript>,<jquery>
+<javascript> <angularjs>,<css>
+<css> <angularjs>,<javascript>
+<css> <javascript>,<angularjs>
+<mybatis> <redis>,<shiro>
+<shiro> <redis>,<mybatis>
+<shiro> <mybatis>,<redis>
+<php> <jquery>,<mysql>
+<mysql> <jquery>,<php>
+<mysql> <php>,<jquery>
+<eclipse> <android>,<java>
+<java> <android>,<eclipse>
+<java> <eclipse>,<android>
+<android> <python>,<ios>
+<ios> <android>,<python>
+<ios> <python>,<android>
+<android> <python>,<c++>
+<c++> <android>,<python>
+<c++> <python>,<android>
+<html> <javascript>,<css3>
+<css3> <javascript>,<html>
+<css3> <html>,<javascript>
+<javascript> <jquery>,<python>
+<jquery> <python>,<javascript>
+<javascript> <python>,<jquery>
+<php> <python>,<mysql>
+<mysql> <python>,<php>
+<mysql> <php>,<python>
+<php> <javascript>,<java>
+<java> <javascript>,<php>
+<java> <php>,<javascript>
+<css> <android>,<java>
+<java> <android>,<css>
+<java> <css>,<android>
+<java> <php>,<c++>
+<c++> <php>,<java>
+<c++> <java>,<php>
+<php> <android>,<java>
+<java> <android>,<php>
+<java> <php>,<android>
+<css> <html>,<php>
+<php> <html>,<css>
+<css> <php>,<html>
+<php> <javascript>,<css>
+<css> <javascript>,<php>
+<css> <php>,<javascript>
+<mysql> <sql>,<database>
+<database> <sql>,<mysql>
+<database> <mysql>,<sql>
+<javascript> <jquery>,<php>
+<php> <jquery>,<javascript>
+<php> <javascript>,<jquery>
+<c#> <javascript>,<php>
+<php> <javascript>,<c#>
+<php> <c#>,<javascript>
+<swift> <android>,<ios>
+<ios> <android>,<swift>
+<ios> <swift>,<android>
+<javascript> <python>,<php>
+<php> <python>,<javascript>
+<php> <javascript>,<python>
+<javascript> <python>,<android>
+<python> <android>,<javascript>
+<javascript> <android>,<python>
+<php> <javascript>,<mysql>
+<mysql> <javascript>,<php>
+<mysql> <php>,<javascript>
+<javascript> <android>,<php>
+<php> <android>,<javascript>
+<php> <javascript>,<android>
+<javascript> <python>,<java>
+<java> <python>,<javascript>
+<java> <javascript>,<python>
+<mysql> <php>,<html>
+<php> <html>,<mysql>
+<mysql> <html>,<php>
+<php> <html>,<wordpress>
+<wordpress> <html>,<php>
+<wordpress> <php>,<html>
+<c#> <javascript>,<java>
+<java> <javascript>,<c#>
+<java> <c#>,<javascript>
+<javascript> <python>,<c#>
+<c#> <python>,<javascript>
+<c#> <javascript>,<python>
+<html> <javascript>,<ios>
+<ios> <javascript>,<html>
+<ios> <html>,<javascript>
+<php> <python>,<android>
+<python> <android>,<php>
+<php> <android>,<python>
+<html> <jquery>,<php>
+<php> <jquery>,<html>
+<php> <html>,<jquery>
+<swift> <javascript>,<ios>
+<ios> <javascript>,<swift>
+<ios> <swift>,<javascript>
+<php> <c#>,<java>
+<java> <c#>,<php>
+<java> <php>,<c#>
+<c#> <android>,<java>
+<java> <android>,<c#>
+<java> <c#>,<android>
+<javascript> <android>,<c#>
+<c#> <android>,<javascript>
+<c#> <javascript>,<android>
+<c#> <android>,<php>
+<php> <android>,<c#>
+<php> <c#>,<android>
+<python> <android>,<java>
+<java> <python>,<android>
+<java> <android>,<python>
+<c#> <python>,<android>
+<python> <android>,<c#>
+<c#> <android>,<python>
+<java> <c#>,<ios>
+<ios> <c#>,<java>
+<ios> <java>,<c#>
+<c#> <python>,<php>
+<php> <python>,<c#>
+<php> <c#>,<python>
+<javascript> <angularjs>,<php>
+<php> <angularjs>,<javascript>
+<php> <javascript>,<angularjs>
+<regex> <javascript>,<php>
+<php> <javascript>,<regex>
+<php> <regex>,<javascript>
+<javascript> <jquery>,<java>
+<java> <jquery>,<javascript>
+<java> <javascript>,<jquery>
+<html> <android>,<css>
+<css> <android>,<html>
+<css> <html>,<android>
+<javascript> <android>,<css>
+<css> <android>,<javascript>
+<css> <javascript>,<android>
+<javascript> <angularjs>,<html>
+<html> <angularjs>,<javascript>
+<html> <javascript>,<angularjs>
+<css> <html>,<wordpress>
+<wordpress> <html>,<css>
+<wordpress> <css>,<html>
+<php> <javascript>,<wordpress>
+<wordpress> <javascript>,<php>
+<wordpress> <php>,<javascript>
+<mysql> <php>,<java>
+<java> <php>,<mysql>
+<java> <mysql>,<php>
+<mysql> <javascript>,<java>
+<java> <javascript>,<mysql>
+<java> <mysql>,<javascript>
+<javascript> <node.js>,<java>
+<java> <javascript>,<node.js>
+<java> <node.js>,<javascript>
+<javascript> <android>,<html>
+<html> <android>,<javascript>
+<html> <javascript>,<android>
+<css> <jquery>,<android>
+<jquery> <android>,<css>
+<css> <android>,<jquery>
+<html> <jquery>,<android>
+<jquery> <android>,<html>
+<html> <android>,<jquery>
+<objective-c> <swift>,<xcode>
+<xcode> <swift>,<objective-c>
+<xcode> <objective-c>,<swift>
+<sql> <javascript>,<php>
+<php> <javascript>,<sql>
+<php> <sql>,<javascript>
+<java> <javascript>,<c++>
+<c++> <javascript>,<java>
+<c++> <java>,<javascript>
+<php> <javascript>,<ios>
+<ios> <javascript>,<php>
+<ios> <php>,<javascript>
+<ajax> <jquery>,<php>
+<php> <jquery>,<ajax>
+<php> <ajax>,<jquery>
+<ajax> <javascript>,<php>
+<php> <javascript>,<ajax>
+<php> <ajax>,<javascript>
+<c++> <java>,<algorithm>
+<algorithm> <c++>,<java>
+<algorithm> <java>,<c++>
+<android> <jquery>,<java>
+<java> <android>,<jquery>
+<java> <jquery>,<android>
+<r> <python>,<java>
+<java> <python>,<r>
+<java> <r>,<python>
+<java> <javascript>,<r>
+<javascript> <r>,<java>
+<java> <r>,<javascript>
+<javascript> <python>,<r>
+<r> <python>,<javascript>
+<javascript> <r>,<python>
+<css> <html>,<css3>
+<css3> <html>,<css>
+<css3> <css>,<html>
+<css> <javascript>,<css3>
+<css3> <javascript>,<css>
+<css3> <css>,<javascript>
+<html> <c#>,<jquery>
+<c#> <jquery>,<html>
+<html> <jquery>,<c#>
+<ios> <swift>,<xcode>
+<xcode> <swift>,<ios>
+<xcode> <ios>,<swift>
+<javascript> <angularjs>,<java>
+<java> <angularjs>,<javascript>
+<java> <javascript>,<angularjs>
+<iphone> <swift>,<ios>
+<ios> <swift>,<iphone>
+<ios> <iphone>,<swift>
+<css> <html>,<ios>
+<ios> <html>,<css>
+<ios> <css>,<html>
+<css> <javascript>,<ios>
+<ios> <javascript>,<css>
+<ios> <css>,<javascript>
+<php> <jquery>,<java>
+<java> <jquery>,<php>
+<java> <php>,<jquery>
+<mysql> <python>,<java>
+<java> <python>,<mysql>
+<java> <mysql>,<python>
+<mysql> <php>,<database>
+<database> <php>,<mysql>
+<database> <mysql>,<php>
+<linux> <python>,<bash>
+<bash> <linux>,<python>
+<bash> <python>,<linux>
+<javascript> <android>,<c++>
+<c++> <android>,<javascript>
+<c++> <javascript>,<android>
+<r> <python>,<matlab>
+<matlab> <python>,<r>
+<matlab> <r>,<python>
+<css> <android>,<ios>
+<ios> <android>,<css>
+<ios> <css>,<android>
+<regex> <javascript>,<java>
+<java> <javascript>,<regex>
+<java> <regex>,<javascript>
+<regex> <python>,<java>
+<java> <python>,<regex>
+<java> <regex>,<python>
+<javascript> <python>,<regex>
+<regex> <python>,<javascript>
+<regex> <javascript>,<python>
+<mongodb> <node.js>,<mongoose>
+<mongoose> <node.js>,<mongodb>
+<mongoose> <mongodb>,<node.js>
+<java> <python>,<ios>
+<ios> <python>,<java>
+<ios> <java>,<python>
+<html> <android>,<java>
+<java> <android>,<html>
+<java> <html>,<android>
+<javascript> <python>,<c++>
+<c++> <python>,<javascript>
+<c++> <javascript>,<python>
+<c#> <javascript>,<c++>
+<c++> <javascript>,<c#>
+<c++> <c#>,<javascript>
+<php> <javascript>,<c++>
+<c++> <javascript>,<php>
+<c++> <php>,<javascript>
+<html> <jquery>,<angularjs>
+<jquery> <angularjs>,<html>
+<html> <angularjs>,<jquery>
+<java> <javascript>,<c>
+<c> <javascript>,<java>
+<c> <java>,<javascript>
+<javascript> <jquery>,<mysql>
+<mysql> <jquery>,<javascript>
+<mysql> <javascript>,<jquery>
+<php> <c#>,<mysql>
+<mysql> <c#>,<php>
+<mysql> <php>,<c#>
+<mysql> <c#>,<java>
+<java> <c#>,<mysql>
+<java> <mysql>,<c#>
+<html> <c#>,<java>
+<java> <c#>,<html>
+<java> <html>,<c#>
+<java> <python>,<algorithm>
+<algorithm> <python>,<java>
+<algorithm> <java>,<python>
+<javascript> <jquery>,<wordpress>
+<wordpress> <jquery>,<javascript>
+<wordpress> <javascript>,<jquery>
+<php> <jquery>,<wordpress>
+<wordpress> <jquery>,<php>
+<wordpress> <php>,<jquery>
+<c#> <jquery>,<java>
+<java> <jquery>,<c#>
+<java> <c#>,<jquery>
+<node.js> <python>,<javascript>
+<javascript> <python>,<node.js>
+<node.js> <javascript>,<python>
+<php> <jquery>,<css>
+<css> <jquery>,<php>
+<css> <php>,<jquery>
+<java> <javascript>,<algorithm>
+<algorithm> <javascript>,<java>
+<algorithm> <java>,<javascript>
+<algorithm> <python>,<c++>
+<c++> <python>,<algorithm>
+<c++> <algorithm>,<python>
+<java> <mybatis> <shiro>,<spring>
+<spring> <shiro> <mybatis>,<java>
+<spring> <java> <shiro>,<mybatis>
+<spring> <java> <mybatis>,<shiro>
+<spring> <java> <shiro>,<apache>
+<spring> <apache> <shiro>,<java>
+<spring> <apache> <java>,<shiro>
+<apache> <shiro> <java>,<spring>
+<spring> <java> <mybatis>,<bootstrap>
+<spring> <bootstrap> <mybatis>,<java>
+<spring> <java> <bootstrap>,<mybatis>
+<java> <bootstrap> <mybatis>,<spring>
+<java> <mybatis> <redis>,<spring>
+<spring> <mybatis> <redis>,<java>
+<spring> <java> <redis>,<mybatis>
+<spring> <java> <mybatis>,<redis>
+<java> <mybatis> <管理系统>,<spring>
+<spring> <mybatis> <管理系统>,<java>
+<spring> <java> <管理系统>,<mybatis>
+<spring> <java> <mybatis>,<管理系统>
+<css> <html> <javascript>,<java>
+<java> <html> <javascript>,<css>
+<java> <css> <javascript>,<html>
+<java> <css> <html>,<javascript>
+<数据库> <mysql> <oracle>,<java>
+<java> <mysql> <数据库>,<oracle>
+<java> <数据库> <oracle>,<mysql>
+<java> <mysql> <oracle>,<数据库>
+<java> <c#> <python>,<c++>
+<c++> <c#> <python>,<java>
+<c++> <java> <python>,<c#>
+<c++> <java> <c#>,<python>
+<jquery> <javascript> <android>,<ios>
+<ios> <javascript> <jquery>,<android>
+<ios> <jquery> <android>,<javascript>
+<ios> <javascript> <android>,<jquery>
+<java> <mybatis> <maven>,<spring>
+<spring> <mybatis> <maven>,<java>
+<spring> <java> <maven>,<mybatis>
+<spring> <java> <mybatis>,<maven>
+<java> <shiro> <redis>,<spring>
+<spring> <shiro> <redis>,<java>
+<spring> <java> <redis>,<shiro>
+<spring> <java> <shiro>,<redis>
+<c> <java> <python>,<c++>
+<c++> <c> <python>,<java>
+<c++> <java> <python>,<c>
+<c++> <java> <c>,<python>
+<html> <javascript> <jquery>,<css>
+<css> <javascript> <jquery>,<html>
+<css> <html> <jquery>,<javascript>
+<css> <html> <javascript>,<jquery>
+<java> <javascript> <android>,<ios>
+<ios> <javascript> <android>,<java>
+<ios> <java> <android>,<javascript>
+<ios> <java> <javascript>,<android>
+<shiro> <mybatis> <redis>,<java>
+<java> <shiro> <redis>,<mybatis>
+<java> <mybatis> <redis>,<shiro>
+<java> <mybatis> <shiro>,<redis>
+<shiro> <mybatis> <redis>,<spring>
+<spring> <mybatis> <redis>,<shiro>
+<spring> <shiro> <redis>,<mybatis>
+<spring> <shiro> <mybatis>,<redis>
+<css> <html> <javascript>,<php>
+<php> <html> <javascript>,<css>
+<css> <php> <javascript>,<html>
+<css> <php> <html>,<javascript>
+<php> <javascript> <android>,<java>
+<java> <javascript> <android>,<php>
+<java> <php> <android>,<javascript>
+<java> <php> <javascript>,<android>
+<php> <javascript> <python>,<java>
+<java> <javascript> <python>,<php>
+<java> <php> <python>,<javascript>
+<java> <php> <javascript>,<python>
+<c#> <javascript> <python>,<java>
+<java> <javascript> <python>,<c#>
+<java> <c#> <python>,<javascript>
+<java> <c#> <javascript>,<python>
+<php> <javascript> <python>,<android>
+<python> <javascript> <android>,<php>
+<python> <php> <android>,<javascript>
+<php> <javascript> <android>,<python>
+<html> <javascript> <jquery>,<php>
+<php> <javascript> <jquery>,<html>
+<php> <html> <jquery>,<javascript>
+<php> <html> <javascript>,<jquery>
+<c#> <javascript> <android>,<java>
+<java> <javascript> <android>,<c#>
+<java> <c#> <android>,<javascript>
+<java> <c#> <javascript>,<android>
+<php> <c#> <javascript>,<java>
+<java> <c#> <javascript>,<php>
+<java> <php> <javascript>,<c#>
+<java> <php> <c#>,<javascript>
+<php> <c#> <android>,<java>
+<java> <c#> <android>,<php>
+<java> <php> <android>,<c#>
+<java> <php> <c#>,<android>
+<c#> <javascript> <android>,<php>
+<php> <javascript> <android>,<c#>
+<php> <c#> <android>,<javascript>
+<php> <c#> <javascript>,<android>
+<python> <c#> <android>,<java>
+<java> <c#> <python>,<android>
+<java> <python> <android>,<c#>
+<java> <c#> <android>,<python>
+<android> <javascript> <python>,<java>
+<java> <javascript> <android>,<python>
+<java> <android> <python>,<javascript>
+<java> <javascript> <python>,<android>
+<c#> <javascript> <python>,<android>
+<python> <javascript> <android>,<c#>
+<python> <c#> <android>,<javascript>
+<c#> <javascript> <android>,<python>
+<java> <c#> <android>,<ios>
+<ios> <c#> <android>,<java>
+<ios> <java> <android>,<c#>
+<ios> <java> <c#>,<android>
+<php> <c#> <python>,<java>
+<java> <c#> <python>,<php>
+<java> <php> <python>,<c#>
+<java> <php> <c#>,<python>
+<c#> <javascript> <python>,<php>
+<php> <javascript> <python>,<c#>
+<php> <c#> <python>,<javascript>
+<php> <c#> <javascript>,<python>
+<mysql> <php> <javascript>,<java>
+<java> <php> <javascript>,<mysql>
+<java> <mysql> <javascript>,<php>
+<java> <mysql> <php>,<javascript>
+<html> <javascript> <android>,<css>
+<css> <javascript> <android>,<html>
+<css> <html> <android>,<javascript>
+<css> <html> <javascript>,<android>
+<css> <javascript> <jquery>,<android>
+<jquery> <javascript> <android>,<css>
+<jquery> <css> <android>,<javascript>
+<css> <javascript> <android>,<jquery>
+<html> <javascript> <jquery>,<android>
+<jquery> <javascript> <android>,<html>
+<jquery> <html> <android>,<javascript>
+<html> <javascript> <android>,<jquery>
+<css> <html> <jquery>,<android>
+<jquery> <html> <android>,<css>
+<jquery> <css> <android>,<html>
+<css> <html> <android>,<jquery>
+<ajax> <javascript> <jquery>,<php>
+<php> <javascript> <jquery>,<ajax>
+<php> <ajax> <jquery>,<javascript>
+<php> <ajax> <javascript>,<jquery>
+<jquery> <javascript> <android>,<java>
+<java> <javascript> <jquery>,<android>
+<java> <jquery> <android>,<javascript>
+<java> <javascript> <android>,<jquery>
+<python> <php> <android>,<java>
+<java> <php> <python>,<android>
+<java> <python> <android>,<php>
+<java> <php> <android>,<python>
+<java> <javascript> <python>,<r>
+<javascript> <r> <python>,<java>
+<java> <r> <python>,<javascript>
+<java> <javascript> <r>,<python>
+<css> <html> <javascript>,<css3>
+<css3> <html> <javascript>,<css>
+<css3> <css> <javascript>,<html>
+<css3> <css> <html>,<javascript>
+<c#> <javascript> <jquery>,<html>
+<html> <javascript> <jquery>,<c#>
+<jquery> <html> <c#>,<javascript>
+<html> <javascript> <c#>,<jquery>
+<ios> <objective-c> <swift>,<xcode>
+<xcode> <objective-c> <swift>,<ios>
+<xcode> <ios> <swift>,<objective-c>
+<xcode> <ios> <objective-c>,<swift>
+<css> <html> <javascript>,<ios>
+<ios> <html> <javascript>,<css>
+<ios> <css> <javascript>,<html>
+<ios> <css> <html>,<javascript>
+<php> <javascript> <jquery>,<java>
+<java> <javascript> <jquery>,<php>
+<java> <php> <jquery>,<javascript>
+<java> <php> <javascript>,<jquery>
+<html> <javascript> <jquery>,<java>
+<java> <javascript> <jquery>,<html>
+<java> <html> <jquery>,<javascript>
+<java> <html> <javascript>,<jquery>
+<regex> <javascript> <python>,<java>
+<java> <javascript> <python>,<regex>
+<java> <regex> <python>,<javascript>
+<java> <regex> <javascript>,<python>
+<java> <android> <python>,<ios>
+<ios> <android> <python>,<java>
+<ios> <java> <android>,<python>
+<ios> <java> <python>,<android>
+<css> <javascript> <android>,<java>
+<java> <javascript> <android>,<css>
+<java> <css> <android>,<javascript>
+<java> <css> <javascript>,<android>
+<html> <javascript> <android>,<java>
+<java> <javascript> <android>,<html>
+<java> <html> <android>,<javascript>
+<java> <html> <javascript>,<android>
+<css> <html> <android>,<java>
+<java> <html> <android>,<css>
+<java> <css> <android>,<html>
+<java> <css> <html>,<android>
+<java> <javascript> <python>,<c++>
+<c++> <javascript> <python>,<java>
+<c++> <java> <python>,<javascript>
+<c++> <java> <javascript>,<python>
+<java> <python> <android>,<c++>
+<c++> <python> <android>,<java>
+<c++> <java> <python>,<android>
+<c++> <java> <android>,<python>
+<java> <javascript> <android>,<c++>
+<c++> <javascript> <android>,<java>
+<c++> <java> <android>,<javascript>
+<c++> <java> <javascript>,<android>
+<java> <c#> <javascript>,<c++>
+<c++> <c#> <javascript>,<java>
+<c++> <java> <javascript>,<c#>
+<c++> <java> <c#>,<javascript>
+<java> <php> <javascript>,<c++>
+<c++> <php> <javascript>,<java>
+<c++> <java> <javascript>,<php>
+<c++> <java> <php>,<javascript>
+<html> <javascript> <jquery>,<angularjs>
+<jquery> <javascript> <angularjs>,<html>
+<jquery> <html> <angularjs>,<javascript>
+<html> <javascript> <angularjs>,<jquery>
+<php> <javascript> <jquery>,<mysql>
+<mysql> <javascript> <jquery>,<php>
+<mysql> <php> <jquery>,<javascript>
+<mysql> <php> <javascript>,<jquery>
+<c#> <javascript> <jquery>,<java>
+<java> <javascript> <jquery>,<c#>
+<java> <c#> <jquery>,<javascript>
+<java> <c#> <javascript>,<jquery>
+<css> <html> <jquery>,<php>
+<php> <html> <jquery>,<css>
+<css> <php> <jquery>,<html>
+<css> <php> <html>,<jquery>
+<php> <html> <javascript>,<java>
+<java> <html> <javascript>,<php>
+<java> <php> <javascript>,<html>
+<java> <php> <html>,<javascript>
+<php> <javascript> <jquery>,<css>
+<css> <javascript> <jquery>,<php>
+<css> <php> <jquery>,<javascript>
+<css> <php> <javascript>,<jquery>
+<spring> <java> <mybatis> <redis>,<shiro>
+<spring> <shiro> <mybatis> <java>,<redis>
+<shiro> <mybatis> <redis> <java>,<spring>
+<spring> <shiro> <mybatis> <redis>,<java>
+<spring> <shiro> <redis> <java>,<mybatis>
+<java> <php> <c#> <android>,<javascript>
+<php> <c#> <javascript> <android>,<java>
+<java> <c#> <javascript> <android>,<php>
+<java> <php> <javascript> <android>,<c#>
+<java> <php> <c#> <javascript>,<android>
+<java> <android> <c#> <python>,<javascript>
+<java> <c#> <javascript> <android>,<python>
+<android> <c#> <javascript> <python>,<java>
+<java> <android> <javascript> <python>,<c#>
+<java> <c#> <javascript> <python>,<android>
+<java> <php> <c#> <python>,<javascript>
+<java> <php> <c#> <javascript>,<python>
+<php> <c#> <javascript> <python>,<java>
+<java> <c#> <javascript> <python>,<php>
+<java> <php> <javascript> <python>,<c#>
+<android> <css> <html> <jquery>,<javascript>
+<css> <html> <javascript> <android>,<jquery>
+<android> <html> <javascript> <jquery>,<css>
+<android> <css> <javascript> <jquery>,<html>
+<css> <html> <javascript> <jquery>,<android>
+<java> <android> <php> <python>,<javascript>
+<java> <php> <javascript> <android>,<python>
+<android> <php> <javascript> <python>,<java>
+<java> <android> <javascript> <python>,<php>
+<java> <php> <javascript> <python>,<android>
+<java> <css> <html> <android>,<javascript>
+<css> <html> <javascript> <android>,<java>
+<java> <html> <javascript> <android>,<css>
+<java> <css> <javascript> <android>,<html>
+<java> <css> <html> <javascript>,<android>
+<css> <html> <javascript> <jquery>,<php>
+<css> <php> <html> <jquery>,<javascript>
+<css> <php> <html> <javascript>,<jquery>
+<php> <html> <javascript> <jquery>,<css>
+<css> <php> <javascript> <jquery>,<html>
